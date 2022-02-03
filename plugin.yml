@@ -1,0 +1,13 @@
+name: Grant
+version: 0.0.1
+main: suBTrap\GiveGroup\Main
+api: 3.0.0
+author: ppcreator
+commands:
+    grant:
+        description: Give player group
+        permission: grantik.cmd
+permissions:
+    givegroup.cmd:
+        default: op
+...
